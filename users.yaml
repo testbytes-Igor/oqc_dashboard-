@@ -1,0 +1,19 @@
+credentials:
+  usernames:
+    igor:
+      email: igor@midea.com
+      name: Igor
+      password: abc123
+
+    supervisor:
+      email: supervisor@midea.com
+      name: Supervisor
+      password: supervisor123
+
+cookie:
+  expiry_days: 30
+  key: oqc_dashboard_cookie
+  name: oqc_dashboard
+
+preauthorized:
+  emails: []

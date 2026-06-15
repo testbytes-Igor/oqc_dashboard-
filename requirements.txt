@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+openpyxl
+pyyaml
+streamlit-authenticator
+reportlab
+xlsxwriter
+numpy
